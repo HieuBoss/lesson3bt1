@@ -1,0 +1,14 @@
+.section{
+	text-align: left;
+
+}
+.sub_section{
+	text-indent: 5%;
+	text-align: left;
+}
+h2,h3{
+	text-align: left;
+	word-spacing: 2px;
+	text-decoration: underline solid;
+	text-transform: uppercase;
+}
